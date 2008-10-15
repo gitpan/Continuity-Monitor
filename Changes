@@ -1,0 +1,6 @@
+Revision history for Continuity::Monitor. See Changes-darcs or the main
+repository for a detailed list of internal changes.
+
+Version 0.01 (released 2008.10.14)
+  * Initial release, just to get it out there
+  * Includes JS and image dependencies
